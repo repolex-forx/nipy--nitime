@@ -1,0 +1,11 @@
+{
+  "org": "nipy",
+  "repo": "nitime",
+  "versions": [
+    {
+      "commit": "a014ce0a298715e231f8ed56e87ed9bda444a12c",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:47:44.332127+00:00"
+    }
+  ]
+}
