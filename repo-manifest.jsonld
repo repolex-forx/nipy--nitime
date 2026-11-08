@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/nipy/nitime/commit/a014ce0a298715e231f8ed56e87ed9bda444a12c",
       "git:hexsha": "a014ce0a298715e231f8ed56e87ed9bda444a12c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/nipy/nitime/commit/1eb4a5f18e779f8181cabb20860b9e0459d5d13a",
